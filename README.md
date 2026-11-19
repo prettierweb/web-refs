@@ -1,5 +1,7 @@
 <p><a href="wall.md"><img src="media/wall.jpg" alt="Hero screens of every site in the library" width="100%"></a></p>
 
+<p align="center">⭐ if you like this, please star it, it really helps people find it ⭐</p>
+
 # web-refs
 
 Sean's reference library for building websites that don't look AI-generated. The website chats read this before building a page.
